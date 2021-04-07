@@ -1,6 +1,6 @@
 # number-guessing-game
 
-GAME FUNCTION -
+Game Function -
 - Player must guess a number between a min and max
 - Player gets a certain amount of guesses
 - Notify player of guesses remaining
