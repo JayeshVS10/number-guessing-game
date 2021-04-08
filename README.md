@@ -6,3 +6,5 @@ Game Function -
 - Notify player of guesses remaining
 - Notify the player of the correct answer if loose
 - Let player choose to play again
+
+Check it out at https://jayeshvs10.github.io/number-guessing-game/
